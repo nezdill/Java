@@ -1,4 +1,4 @@
-//Arnez Dillard 2339394
+
 package week1.DIllard;
 
 public class Account {
