@@ -1,4 +1,3 @@
-//Arnez Dillard 2339395
 
 package dillard1and2;
 import java.util.Scanner;
